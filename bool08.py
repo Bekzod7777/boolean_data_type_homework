@@ -1,6 +1,5 @@
 def main(a):
     a=int(a)
-    a=0
     """
     check the whole number. Integers are 0 and a positive number.
     Args:
@@ -9,4 +8,4 @@ def main(a):
         bool
     """
     # Write your code here
-    return a >=0
+    return type(a)==int
