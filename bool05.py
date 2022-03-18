@@ -1,4 +1,5 @@
 def main(a):
+    a=int(a)
     """
     Check the logic "The variable "a" is an odd number"
     Args:
@@ -7,4 +8,4 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    return a%2
