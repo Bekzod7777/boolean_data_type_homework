@@ -1,4 +1,6 @@
 def main(a,b):
+    a=int(a)
+    b=int(b)
     """
     Check the logic "They are not equal"
     Args:
@@ -8,4 +10,4 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return 
+    return a!=b
