@@ -1,5 +1,6 @@
 def main(a,b):
-    a=b
+    a=2
+    b=2
 
     """
     Check the logic "they are equal"
