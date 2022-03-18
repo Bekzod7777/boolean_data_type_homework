@@ -1,6 +1,6 @@
 def main(a,b):
-    a=3
-    b=3
+    a=int(a)
+    b=int(b)
     
 
     """
