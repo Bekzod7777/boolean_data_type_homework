@@ -1,5 +1,6 @@
 def main(a):
     a=int(a)
+    a=0
     """
     check the whole number. Integers are 0 and a positive number.
     Args:
