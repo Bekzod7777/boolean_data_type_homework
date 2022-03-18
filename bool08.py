@@ -8,4 +8,4 @@ def main(a):
         bool
     """
     # Write your code here
-    return type(a)
+    return type(a)==int
